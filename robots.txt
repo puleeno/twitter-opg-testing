@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+User-agent: Adsbot-Google
+User-agent: Googlebot-News
+User-agent: Googlebot-Mobile
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: DuckDuckBot
+User-agent: Pinterestbot
+User-agent: Applebot
+User-agent: LinkedInBot
+User-agent: Twitterbot
+User-agent: YandexBot
+User-agent: facebookexternalhit
+User-agent: Discordbot
+User-agent: SemrushBot
+User-agent: AhrefsBot
+Allow: /
